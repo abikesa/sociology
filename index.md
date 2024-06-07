@@ -11,7 +11,7 @@
 - Voir
 - Savoir
 
-### Signal vs. Privacy
+### [Signal vs. Privacy](https://abikesa.github.io/graphtheory/)
 - Pouvoir
 - [Freedom-Duty Tradeoff](hottest.md)
 
