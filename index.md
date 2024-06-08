@@ -12,7 +12,7 @@
 - Savoir
 
 ### [Signal vs. Privacy](https://abikesa.github.io/graphtheory/)
-- Pouvoir
+- [Pouvoir](https://en.wikipedia.org/wiki/My_cup_runneth_over)
 - [Freedom-Duty Tradeoff](hottest.md)
 
 ### Membership
