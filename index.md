@@ -16,7 +16,7 @@
 - [Freedom-Duty Tradeoff](hottest.md)
 
 ### Membership
-- Identity
+- [Identity](https://abikesa.github.io/generalize/)
 - [Benefits](https://abikesa.github.io/apple/)
 
 
