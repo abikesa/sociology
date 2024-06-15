@@ -17,7 +17,7 @@
 
 ### Membership
 - Identity
-- Benefits
+- [Benefits](https://abikesa.github.io/apple/)
 
 
 # GPT-4o
